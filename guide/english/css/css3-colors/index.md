@@ -3,11 +3,11 @@ title: CSS3 Colors
 ---
 ## CSS3 Colors
 
-Colors in CSS are used to colorize elements in our web-pages. There are many ways to assign colors to elements. You can use the actual names for the colors, their RGB values or the Hexadecimal values. In CSS3 the hsl (hue-saturation-lightness) has been added to the specification.
+Colors in CSS are used to colorize elements in our web-pages. There are many ways to assign colors to elements. You can use the actual names for the colors, their RGB values or the Hexadecimal values. In CSS3 the HSL (hue-saturation-lightness) has been added to the specification.
 
 ### Color Names
 
-Currently there are 140 color names supported in HTML, which can be assigned in CSS rules by just typing their name. For example:
+Currently, there are 140 color names supported in HTML, which can be assigned in CSS rules by just typing their name. For example:
 
 ### Syntax
 
@@ -54,9 +54,9 @@ This rule again changes the font color of all p elements to green.
 ### HSL
 
 HSL has three values. <br>
-First one is **Hue** which is measure in degrees. So 0 (or 360) represents color red, at 120 it is green and 240 is blue. <br>
-Second one is **Saturation** which has a percentage value with range from 0 to 100%. <br>
-Third one is **Lightness** which also has a percentage value with range from 0 to 100%. 0% is dark black, 50% average, 100% is white.
+First one is **Hue** which is measured in degrees. So 0 (or 360) represents color red, at 120 it is green and 240 is blue. <br>
+Second one is **Saturation** which has a percentage value with a range from 0 to 100%. <br>
+Third one is **Lightness** which also has a percentage value with a range from 0 to 100%. 0% is dark black, 50% average, 100% is white.
 
 ### Syntax
 
